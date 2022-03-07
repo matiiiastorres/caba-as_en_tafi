@@ -23,11 +23,11 @@
   }
   /* header */
   .logo-nm {
-    width: 192px;
+    width: 105px;
   }
   @media (max-width: 414px) {
     .logo-nm {
-      width: 156px;
+      width: 105px;
     }
   }
   .top-nm {
